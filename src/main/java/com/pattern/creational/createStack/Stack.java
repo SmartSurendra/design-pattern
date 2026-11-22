@@ -28,10 +28,11 @@ public class Stack<T>{
 
     @Override
     public String toString() {
-        return "Sushil Stack{" +
+
+        return "Sushil's Daughter is Samaira Stack{" +
                 "elements=" + Arrays.toString(elements) +
                 ", top=" + top +
-                "Hello"+
+                "Hello Hey"+
                 '}';
     }
 }
